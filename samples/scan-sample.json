@@ -1,0 +1,25 @@
+{
+ "mint": "GSdzioCmcouDADrJAx2Va8AXfG6EMkGrxQpf5Lypump",
+ "supply": 1000000000.0,
+ "top1_pct": null,
+ "top10_pct": null,
+ "symbol": "BOUNCEBACK",
+ "dex": "pumpfun",
+ "pair_url": "https://dexscreener.com/solana/fx5tkx6hl6z7bjtkcuhqhw9e1d3un85kg1dxzatpbxf9",
+ "price_usd": "0.00001058",
+ "mcap_usd": 10585.97,
+ "liquidity_usd_all_pairs": 0,
+ "pair_age_hours": 0.2,
+ "buys_24h": 140,
+ "sells_24h": 74,
+ "red_flags": [
+  "Tiny pool: only $0 liquidity, small sells move the price a lot",
+  "Liquidity is 0.0% of market cap ($0 vs $10,586)",
+  "Pair is only 0.2h old"
+ ],
+ "notes": [
+  "Token-2022 program: also check extensions (transfer fee/hook, permanent delegate)",
+  "Holder check unavailable on this RPC (HTTP Error 429: Too Many Requests)"
+ ],
+ "_sample_note": "Real read-only scan captured 2026-10-22 ~16:50 IST via token_check.py; a just-launched pump.fun token picked at random from DexScreener latest profiles. Used only as demo input. Not a recommendation. NFA."
+}

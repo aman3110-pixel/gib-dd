@@ -1,0 +1,33 @@
+{
+ "ok": true,
+ "data": {
+  "results": [
+   {
+    "id": "sub-1-FICTIONAL",
+    "user": {
+     "username": "researcher_a"
+    },
+    "content": "<p>Mint GSdzioCmcouDADrJAx2Va8AXfG6EMkGrxQpf5Lypump</p><p>Q1: checked holder/authority data, see https://solscan.io/account/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA and https://solscan.io/tx/555555555555555555555555555555555555555555555555555555555555555555555555555555555555555. Finding explained in plain words for beginners, including what was verified and what remains unknown after checking the explorer and the official links.</p><p>Q2: checked holder/authority data, see https://solscan.io/account/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA and https://solscan.io/tx/555555555555555555555555555555555555555555555555555555555555555555555555555555555555555. Finding explained in plain words for beginners, including what was verified and what remains unknown after checking the explorer and the official links.</p><p>Q3: checked holder/authority data, see https://solscan.io/account/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA and https://solscan.io/tx/555555555555555555555555555555555555555555555555555555555555555555555555555555555555555. Finding explained in plain words for beginners, including what was verified and what remains unknown after checking the explorer and the official links.</p><p>Q4: checked holder/authority data, see https://solscan.io/account/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA and https://solscan.io/tx/555555555555555555555555555555555555555555555555555555555555555555555555555555555555555. Finding explained in plain words for beginners, including what was verified and what remains unknown after checking the explorer and the official links.</p><p>Q6: final beginner checklist written, see https://explorer.solana.com/address/BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB for reference. Explained what was verified and what is still unknown.</p><p>Q5: checked holder/authority data, see https://solscan.io/account/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA and https://solscan.io/tx/555555555555555555555555555555555555555555555555555555555555555555555555555555555555555. Finding explained in plain words for beginners, including what was verified and what remains unknown after checking the explorer and the official links.</p><p>Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. Detailed notes. </p>"
+   },
+   {
+    "id": "sub-2-FICTIONAL",
+    "user": {
+     "username": "researcher_b"
+    },
+    "content": "<p>Mint GSdzioCmcouDADrJAx2Va8AXfG6EMkGrxQpf5Lypump. Q1 LP is on pump.fun curve https://dexscreener.com/solana/x . Q2 dunno. Looks fine, buy now before 100x!</p>"
+   },
+   {
+    "id": "sub-3-FICTIONAL",
+    "user": {
+     "username": "researcher_c"
+    },
+    "content": "<p>Seems ok to me.</p>"
+   }
+  ],
+  "page": 1,
+  "limit": 15,
+  "total": 3,
+  "lastPage": 1
+ },
+ "_sample_note": "FICTIONAL submissions for the offline demo only."
+}
