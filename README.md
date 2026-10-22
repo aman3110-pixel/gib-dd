@@ -30,7 +30,7 @@ It's useful for a community educator, a DAO risk team, or an AI agent that has t
 ## Setup
 Requirements: Python 3.9+ (stdlib only) and Node.js 22+ for the Gibwork CLI.
 ```bash
-git clone <this repo> && cd gib-dd
+git clone https://github.com/aman3110-pixel/gib-dd.git && cd gib-dd
 npm install --global @gibwork/cli      # or let gib-dd fall back to `npx -y @gibwork/cli`
 python3 -m unittest discover -s tests  # 5 tests, offline
 ```
